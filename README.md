@@ -1,3 +1,3 @@
-# hello-world
+# hello-everybody
 ## bu bir deneme dosyasıdır....
-Github denemesi
+Yeni editler var
